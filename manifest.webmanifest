@@ -1,15 +1,15 @@
 {
-  "name": "Jessica Urzua",
-  "short_name": "Jessica Urzua",
+  "name": "Jessica Urzúa",
+  "short_name": "Jessica Urzúa",
   "lang": "en-us",
-  "theme_color": "rgb(251, 191, 183)",
-  "background_color": "rgb(251, 191, 183)",
+  "theme_color": "#1a3a4a",
+  "background_color": "#1a3a4a",
   "icons": [{
-    "src": "/media/icon_hu59cff425a4e75c9ff51ed9adbc075bcd_356870_192x192_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu7aafda519dd132752f454cb177bde8f1_4515428_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_hu59cff425a4e75c9ff51ed9adbc075bcd_356870_512x512_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu7aafda519dd132752f454cb177bde8f1_4515428_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
